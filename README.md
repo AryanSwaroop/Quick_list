@@ -64,7 +64,7 @@ task-tracker/
    npm run dev
    ```
 4. **Open your browser:**
-   Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal)
+   Visit [http://localhost:5173](http://localhost:8080) (or the port shown in your terminal)
 
 ## 📝 Usage
 - Enter any username to log in (no password required)
