@@ -52,7 +52,7 @@ task-tracker/
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/AryanSwaroop/Quick_list
    cd quick-task-pilot-70-main
    ```
 2. **Install dependencies:**
